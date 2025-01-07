@@ -3,7 +3,7 @@ _A guide for the creation of new repositories in our class organization and for 
 
 ## Introduction
 This repository is intended as both a guide to support you in two key tasks:
-1. [Creating new repositories](#creating-new-repositories) in our [course organization](https://github.com/nic-dgl104-winter-2024)
+1. [Creating new repositories](#creating-new-repositories) in our [course organization](https://github.com/nic-dgl104-winter-2025)
 2. [Managing MIT App Inventor repositories](#managing-an-mit-app-inventor-repository) and [code review strategies](#ai2-code-review-strategies)
 
 Both of these are critical since all your DGL 104 work should be stored on our course organization and not in your personal GitHub account. I'll never close this organization, so your code will always be accessible. If you prefer to make your projects developed for DGL 104 available on your personal GitHub account I can demonstrate how to do this at the end of the semester.
@@ -24,11 +24,11 @@ Make sure you're logged into GitHub an click on the `+` button on the upper righ
 
 ![new repository button](./images/create-repo-1.png)
 
-### 2. Name the new repository and store in nic-dgl104-winter-2024
+### 2. Name the new repository and store in nic-dgl104-winter-2025
 Always take the following three actions when creating a repository for DGL 104:
 1. Prepend your repository name with your GitHub username (e.g. mine starts with 'ash-teach').
 2. Give your repository name a unique and meaningful name (e.g. 'programming-practice-article').
-3. Click the dropdown button on your GitHub user name and choose our course organization, `nic-dgl104-winter-2024`, from the list.
+3. Click the dropdown button on your GitHub user name and choose our course organization, `nic-dgl104-winter-2025`, from the list.
 
 ![name repository](./images/create-repo-2.png)
 
